@@ -73,3 +73,6 @@ into account matters you did not even know about.
 Do not worry. We also use Scheme, for instance. We use Icon. We use
 Fortran and M4 and Awk and Zshell. But we furthermore use ATS, which
 embeds static proofs.
+
+Once upon a time the proprietor made some fonts. See *Sorts Mill*
+fonts on Google Fonts.

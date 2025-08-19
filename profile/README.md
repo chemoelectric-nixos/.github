@@ -65,10 +65,10 @@ respect *you*—is a hard lesson to learn.
 Not having learnt this is a cause, for instance, of people using
 inferior programming languages. They are demanding of the language
 that it respect them.  Really good programming languages are designed
-by people who know much more about it than you do. An example is
-Ada. It is not the simplest language to use, but that is because you
-must respect it. The people who designed it took into account matters
-you did not even know about.
+by people who know much more about programming languages than you
+do. An example is Ada. It is not the simplest language to use, but
+that is because you must respect it. The people who designed it took
+into account matters you did not even know about.
 
 Do not worry. We also use Scheme, for instance. We use Icon. We use
 Fortran and M4 and Awk and Zshell. But we furthermore use ATS, which

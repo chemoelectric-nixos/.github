@@ -1,4 +1,4 @@
-Respect the tools you work with.
+# Respect the tools you work with.
 
 The GNU Compiler Collection has a command, `gcc`, that is *not* the C
 compiler. It is a command for calling *all* of the compilers.

@@ -75,4 +75,7 @@ Fortran and M4 and Awk and Zshell. But we furthermore use ATS, which
 embeds static proofs.
 
 Once upon a time the proprietor made some fonts. See *Sorts Mill*
-fonts on Google Fonts.
+fonts on Google Fonts. He modified FontForge so he could run
+extensions written in Pure instead of in Python. Pure was compiled
+just in time. The extensions spaced glyphs by a method that respected
+visual judgment but required real-time speed.

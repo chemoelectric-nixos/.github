@@ -62,12 +62,13 @@ universally.
 That one must respect the tool—rather than demand of the tool that *it*
 respect *you*—is a hard lesson to learn.
 
-It is a cause, for instance, of people using inferior programming
-languages. They are demanding of the language that it respect them.
-Really good programming languages are designed by people who know much
-more about it than you do. An example is Ada. It is not the simplest
-language to use, but that is because you must respect it. The people
-who designed it took into account matters you did not even know about.
+Not having learnt this is a cause, for instance, of people using
+inferior programming languages. They are demanding of the language
+that it respect them.  Really good programming languages are designed
+by people who know much more about it than you do. An example is
+Ada. It is not the simplest language to use, but that is because you
+must respect it. The people who designed it took into account matters
+you did not even know about.
 
 Do not worry. We also use Scheme, for instance. We use Icon. We use
 Fortran and M4 and Awk and Zshell. But we furthermore use ATS, which

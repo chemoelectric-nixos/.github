@@ -1,1 +1,52 @@
-# .github
+Respect the tools you work with.
+
+The GNU Compiler Collection has a command, `gcc`, that is *not* the C
+compiler. It is a command for calling *all* of the compilers.
+
+In fact, when you compile the GNU Compiler Collection itself, from its
+own source code, the `gcc` command is used to compile *Ada* code.
+
+One is supposed to compile the Collection as a unitary whole, with all
+the languages enabled that one is going to use. Then the `gcc` command
+will know it recognizes those languages. This is how the tool was
+designed. This is how it has been for a long time.
+
+*Respect your tool.*
+
+NixOS has not respected this tool. It has compiled the languages’
+compilers in isolation from the others. It does not matter *why* this
+was done. It was done in disrespect of the tool.
+
+Furthermore, NixOS does not compile the GNU Compiler Collection three
+times, as is the upstream default for a native build. Why is this the
+default? It makes the Collection *self-hosting*. The C/C++ and Ada
+compilers, at least, are then *compiled with themselves*. Furthermore,
+they are compiled with themselves *twice*, and it is verified that
+that *the same result is obtained both times*.
+
+This is how the GNU C compiler has been built since version 1. It is a
+good system. You are preparing your tool for honest work.
+
+❦ ❦ ❦
+
+This organization seeks to respect the tools.
+
+We will try to restore the GNU Compiler Collection to its intended
+form. We may or may not succeed, but we will try.
+
+We will try to make development environments more closely resemble
+those of ordinary POSIX systems. We may or may not succeed, but we
+will try.
+
+What good is purity and reproducibility if the tools—and thus the
+products of those tools—are not of the same quality as found
+elsewhere?
+
+The GNU Compiler Collection on a Linux From Scratch is better than
+that on a NixOS system. We have no hesitation in saying so. The
+compilers are thrice compiled on the very machine they are to be used
+on.
+
+❦ ❦ ❦
+
+We will also put any and sundry here.

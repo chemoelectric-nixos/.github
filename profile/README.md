@@ -69,5 +69,6 @@ more about it than you do. An example is Ada. It is not the simplest
 language to use, but that is because you must respect it. The people
 who designed it took into account matters you did not even know about.
 
-Do not worry. We also use Scheme, for instance. We use Icon. But we
-furthermore use ATS, which embeds static proofs.
+Do not worry. We also use Scheme, for instance. We use Icon. We use
+Fortran and M4 and Awk and Zshell. But we furthermore use ATS, which
+embeds static proofs.
